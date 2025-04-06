@@ -9,18 +9,9 @@ PrimaryHome: "[[Chingwe]]"
 NoteIcon: group
 comments: false
 ---
+# Zhū Què Mén (朱雀門)
+![[ImagePlaceholder.png]]
 
-
-
-> [!infobox]
-> # `=this.file.name`
-> ![[ImagePlaceholder.png]]
-> ###### Key Members
-> ```dataview
-table Race, Gender
-where contains( AssociatedGroup, this.file.name)
-
-# `=this.file.name`
 ## Overview
 ตำหนักเพลิงเป็นหนึ่งในสำนักฝึกวิชากำลังภายในที่โดดเด่นด้วยพลังการโจมตีอันรุนแรงและร้อนแรง ตั้งอยู่ใกล้เคียงกับตำหนักหินผา สถานที่แห่งนี้เป็นสัญลักษณ์ของ **ความกล้าหาญ พลังแห่งเจตจำนง และจิตวิญญาณที่ไม่ยอมแพ้** หอคอยสูงที่ปล่อยเปลวไฟลุกโชนตลอดเวลาเป็นเครื่องหมายแสดงถึงพลังอันร้อนแรงที่ไม่มีวันดับลงของตำหนักเพลิง
 
