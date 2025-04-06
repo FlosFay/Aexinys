@@ -1,6 +1,6 @@
 ---
 tags:
-  - Category/Group
+  - Group
 Community-Size: Outpost
 Alignment: Neutral
 Government: Autocracy

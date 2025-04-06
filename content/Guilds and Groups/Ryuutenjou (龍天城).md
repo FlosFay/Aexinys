@@ -1,6 +1,6 @@
 ---
 tags:
-  - Category/Group
+  - Group
 Community-Size: Outpost
 Alignment: Lawful Good
 Government: Autocracy

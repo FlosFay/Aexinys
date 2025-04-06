@@ -1,6 +1,6 @@
 ---
 tags:
-  - Category/Group
+  - Guild
 Community-Size: Small Town
 Alignment: Lawful Good
 Government: Democracy

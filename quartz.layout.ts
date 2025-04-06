@@ -9,8 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.RecentNotes({
       limit: 3,
       showTags: false
-      }
-    ),
+      }),
     Component.Comments({
       provider: 'giscus',
       options: {
@@ -56,7 +55,15 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      mapFn: (node) => {
+        if (node.isFolder) {
+          node.displayName = "📕 " + node.displayName
+        } else {
+          node.displayName = "📜 " + node.displayName
+        }
+      }
+    }),
   ],
   right: [
     Component.Graph(),
@@ -80,7 +87,15 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      mapFn: (node) => {
+        if (node.isFolder) {
+          node.displayName = "📕 " + node.displayName
+        } else {
+          node.displayName = "📜 " + node.displayName
+        }
+      }
+    }),
   ],
   right: [],
 }
