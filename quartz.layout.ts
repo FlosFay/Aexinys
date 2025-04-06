@@ -5,11 +5,26 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [    Component.RecentNotes({
-    limit: 3,
-    showTags: false
-    },
-  )],
+  afterBody: [
+    Component.RecentNotes({
+      limit: 3,
+      showTags: false
+      }
+    ),
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+      // from data-repo
+        repo: 'FlosFay/Aexinys',
+      // from data-repo-id
+        repoId: 'R_kgDOOUwK1A',
+      // from data-category
+        category: 'Announcements',
+      // from data-category-id
+        categoryId: 'DIC_kwDOOUwK1M4Co1Ia',
+      }
+    }),
+],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
