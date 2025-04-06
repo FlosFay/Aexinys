@@ -7,6 +7,7 @@ Government: Autocracy
 Leader: "[[Tharuk]]"
 PrimaryHome: "[[Caerni]]"
 NoteIcon: group
+comments: false
 ---
 
 

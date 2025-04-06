@@ -7,6 +7,7 @@ Government: Autocracy
 Leader: 
 PrimaryHome: "[[Chingwe]]"
 NoteIcon: group
+comments: false
 ---
 
 

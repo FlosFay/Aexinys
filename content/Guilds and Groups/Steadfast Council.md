@@ -7,6 +7,7 @@ Government: Democracy
 Leader: "[[Fral Tinnir]]"
 PrimaryHome: "[[Caerni]]"
 NoteIcon: group
+comments: false
 ---
 
 

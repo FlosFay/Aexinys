@@ -7,6 +7,7 @@ Government: Autocracy
 Leader: "[[Inaba Flos Renho]]"
 PrimaryHome: "[[Chingwe]]"
 NoteIcon: group
+comments: false
 ---
 
 
