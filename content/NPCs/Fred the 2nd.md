@@ -9,6 +9,7 @@ Character-Role:
 Location: 
 NoteIcon: npc
 Vitality: Deceased
+comments: false
 ---
 
 

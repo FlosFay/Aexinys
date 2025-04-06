@@ -10,6 +10,7 @@ Location:
 NoteIcon: npc
 Vitality: Alive
 exampleProperty: z_Assets/Decks/Business Card Dungeon/Dungeon16.png
+comments: false
 ---
 
 
