@@ -1,5 +1,6 @@
 ---
-Tags: Category/Group
+tags:
+  - Guild
 Community-Size: Outpost
 Alignment: Chaotic Evil
 Government: Autocracy
@@ -10,15 +11,9 @@ NoteIcon: group
 
 
 
-> [!infobox]
-> # `=this.file.name`
-> ![[The Dawn Fleet.png]]
-> ###### Key Members
-> ```dataview
-table Race, Gender
-where contains( AssociatedGroup, this.file.name)
 
-# `=this.file.name`
+# The Dawn Fleet
+![[The Dawn Fleet.png|250]]
 ## Overview
 **The Dawn Fleet** คือกองเรือในตำนานที่เลื่องลือไปทั่วทั้งโลก พวกเขาได้ออกเดินทางครบทุกน่านน้ำของ Aexinys ทั้งยังเป็นกองเรือที่เชื่อมโยงความสัมพันธ์ของทุกดินแดนทั้งหมดเข้าด้วยกัน อย่างแน่นแฝ้น
 

@@ -1,5 +1,6 @@
 ---
-Tags: Category/Group
+tags:
+  - Guild
 Community-Size: Outpost
 Alignment: Chaotic Evil
 Government: Autocracy
@@ -10,15 +11,9 @@ NoteIcon: group
 
 
 
-> [!infobox]
-> # `=this.file.name`
-> ![[Vermillion Solace.png]]
-> ###### Key Members
-> ```dataview
-table Race, Gender
-where contains( AssociatedGroup, this.file.name)
 
-# `=this.file.name`
+# Vermilion Solace
+![[Vermillion Solace.png|250]] 
 ## Overview
 กลุ่มอัศวินผ้าคลุมแดง พวกเขาสาบานที่จะใช้ความโศกเศร้าในอดีตเป็นแรงผลักดันที่จะขัดขวางและกำจัดสิ่งที่จะนำพามาซึ่งความเจ็บปวด เป็นกลุ่มอัศวินเล็กๆแต่ก็มากพอที่จะเป็นกิลด์ได้
 
