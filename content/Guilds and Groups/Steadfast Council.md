@@ -1,6 +1,8 @@
 ---
 tags:
   - Guild
+  - Floressense
+  - Caerni
 Community-Size: Small Town
 Alignment: Lawful Good
 Government: Democracy

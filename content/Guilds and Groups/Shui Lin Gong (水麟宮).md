@@ -1,6 +1,8 @@
 ---
 tags:
   - Group
+  - Floressense
+  - Chingwe
 Community-Size: Outpost
 Alignment: Neutral
 Government: Autocracy

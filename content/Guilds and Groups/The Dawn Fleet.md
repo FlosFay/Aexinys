@@ -1,11 +1,13 @@
 ---
 tags:
   - Guild
+  - Floressense
+  - Caerni
 Community-Size: Outpost
 Alignment: Chaotic Evil
 Government: Autocracy
-Leader:
-PrimaryHome:
+Leader: 
+PrimaryHome: 
 NoteIcon: group
 ---
 
