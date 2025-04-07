@@ -18,8 +18,8 @@ comments: false
 
 > [!infobox]
 > # `=this.file.name`
-> ![[ImagePlaceholder.png|cover hsmall]]
-> [[ImagePlaceholder.png|Show To Players]]
+> ![[content/assets/Placeholder Images/ImagePlaceholder.png|cover hsmall]]
+> [[content/assets/Placeholder Images/ImagePlaceholder.png|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
