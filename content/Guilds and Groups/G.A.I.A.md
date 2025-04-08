@@ -1,6 +1,8 @@
 ---
 tags:
-  - Category/Group
+  - Guild
+  - Mashaoria
+  - Alathiea
 Community-Size: Outpost
 Alignment: Chaotic Evil
 Government: Autocracy
