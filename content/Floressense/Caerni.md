@@ -28,37 +28,26 @@ imports:
   - Something Else
 ---
 # Caerni
-> [!infobox]
-> ![[Caerni.webp]]
-> ###### Geography
-> Type |  Stat |
-> ---|---|
-> Type | Settlement |
-> Size | Metropolis |
-> Region | Floressense |
-> ###### Politics
-> Type |  Stat |
-> ---|---|
-> Govt Type | Democracy |
-> Ruler | [[Iris Flos Forannáin]] |
-> ###### Society
-> Type |  Stat |
-> ---|---|
-> Population | 30000 |
-> Races | All races |
-> Temples | Lumen Aurora |
-> ###### Commerce
-> Type |  Stat |
-> ---|---|
-> Exports | Hay, Wheat |
-> Imports | Something else |
-> ###### Organizations
-> Group |  Leader |
-> ---|---|
-> [[Eventyr]] | [[Tharuk]] |
->  [[Vermilion Solace]] | Rosalia Flos Julia |
->   [[The Dawn Fleet]]  |  Aimil Ros |
+![[Caerni.webp|500]]
 
+ Type |  Stat |
+ ---|---|
+ Type | Settlement |
+ Size | Metropolis |
+ Region | Floressense |
+ Govt Type | Democracy |
+ Ruler | [[Iris Flos Forannáin]] |
+ Population | 30000 |
+ Races | All races |
+ Temples | Lumen Aurora |
+ Exports | Hay, Wheat |
+ Imports | Something else |
+ 
+ Group |  Leader |
+ ---|---|
+ [[Eventyr]] | [[Tharuk]] |
+[[Vermilion Solace]] | Rosalia Flos Julia |
+[[The Dawn Fleet]]  |  Aimil Ros |
 
 ## Overview
 Caerni ตั้งอยู่ใจกลางของดินแดน Floressense เป็นศูนย์กลางที่เชื่อมต่อภูมิภาคต่างๆ เข้าด้วยกัน ด้วยทำเลที่ตั้งเชิงยุทธศาสตร์ Caerni จึงเป็นจุดศูนย์กลางของการค้า การเดินทาง และการสื่อสาร
