@@ -30,48 +30,30 @@ imports:
   - Something Else
 ---
 
+# Bomna
 
+## Stat Information
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### Geography
-> Type |  Stat |
-> ---|---|
-> Type | `=this.type` |
-> Size | `=this.size` |
-> Region | `=this.region` |
-> ###### Travel (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destination |  Travel Days  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politics
-> Type |  Stat |
-> ---|---|
-> Govt Type | `=this.politics` |
-> Ruler | `=this.leader` |
-> Defense | `=this.defences` |
-> ###### Society
-> Type |  Stat |
-> ---|---|
-> Population | `=this.population` |
-> Races | `=this.commonraces` |
-> Temples | `=this.religion`  |
-> ###### Commerce
-> Type |  Stat |
-> ---|---|
-> Exports | `=this.exports` |
-> Imports | `=this.imports` |
-> ###### Organizations
-> Type |  Stat |
-> ---|---|
-> ```dataview
-table WITHOUT ID link(file.name) AS "Group", link(Leader) AS "Leader"
-where contains( PrimaryHome, this.file.name)
+| Type       | Stat                                           |
+| ---------- | ---------------------------------------------- |
+| Type       | Settlement                                     |
+| Size       | Small Town                                     |
+| Region     | Floressense                                    |
+| Govt Type  | Pedocracy                                      |
+| Ruler      | Gwisin Mugunghwa                               |
+| Population | 1500                                           |
+| Races      | Human, Birdfolk, Capy'hado, Minotaur, Trealtin |
+| Temples    | -                                              |
+| Exports    | Fowl, Venison, Lumber                          |
+| Imports    | Something else                                 |
+## Organizations
 
-
-# `=this.file.name`
+| Group |  Leader |
+| ---|---|
+| [[Eventyr]] | [[Tharuk]] |
+| [[Vermilion Solace]] | Rosalia Flos Julia |
+| [[The Dawn Fleet]]  |  Aimil Ros |
+| [[Steadfast Council]] | [[Fral Tinnir]] |
 ## Overview
 เมือง Bomna เป็นสถานที่อันเงียบสงบซึ่งถูกก่อตั้งโดยกลุ่มผู้ที่ปลีกวิเวกจาก [[Chingwe]] ด้วยเหตุผลที่พวกเขาไม่ต้องการใช้ชีวิตภายใต้การแข่งขันที่เข้มข้น แต่แสวงหาความสงบและความกลมกลืนกับธรรมชาติแทน แม้ว่าจะละทิ้งวิถีแห่งการแข่งขัน แต่ชาว Bomna ยังคงสืบทอดศิลปะการต่อสู้ โดยเน้นไปที่การป้องกันตัวเท่านั้น พวกเขาได้พัฒนากระบี่ให้เป็นแบบฉบับเฉพาะของตนเองที่เรียกว่า "กระบี่อ่อน" ซึ่งเป็นอาวุธที่มีรูปแบบการใช้ที่ซับซ้อนและละเอียดอ่อนกว่ากระบี่ทั่วไป ศิลปะการต่อสู้ของพวกเขามีเอกลักษณ์เฉพาะตัว โดยใช้กระบี่อ่อนเป็นอาวุธหลักในการฝึกฝนและป้องกันตัว
 

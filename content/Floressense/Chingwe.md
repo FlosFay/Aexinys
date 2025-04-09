@@ -29,48 +29,30 @@ imports:
   - Something Else
 ---
 
+# Chingwe
 
+## Stat Information
 
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### Geography
-> Type |  Stat |
-> ---|---|
-> Type | `=this.type` |
-> Size | `=this.size` |
-> Region | `=this.region` |
-> ###### Travel (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destination |  Travel Days  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politics
-> Type |  Stat |
-> ---|---|
-> Govt Type | `=this.politics` |
-> Ruler | `=this.leader` |
-> Defense | `=this.defences` |
-> ###### Society
-> Type |  Stat |
-> ---|---|
-> Population | `=this.population` |
-> Races | `=this.commonraces` |
-> Temples | `=this.religion`  |
-> ###### Commerce
-> Type |  Stat |
-> ---|---|
-> Exports | `=this.exports` |
-> Imports | `=this.imports` |
-> ###### Organizations
-> Type |  Stat |
-> ---|---|
-> ```dataview
-table WITHOUT ID link(file.name) AS "Group", link(Leader) AS "Leader"
-where PrimaryHome =[[Chingwe]]
+| Type       | Stat                                 |
+| ---------- | ------------------------------------ |
+| Type       | Settlement                           |
+| Size       | Large City                           |
+| Region     | Floressense                          |
+| Govt Type  | Autocracy                            |
+| Ruler      | Ōhirume no Mikoto (大日孁尊)             |
+| Population | 15000                                |
+| Races      | Human, Beast Tribe, Primodia, Hanyou |
+| Temples    | -                                    |
+| Exports    | Herbs, Marble                        |
+| Imports    | Something else                       |
+## Organizations
 
-
-# `=this.file.name`
+| Group                   | Leader               |
+| ----------------------- | -------------------- |
+| [[Ganshinden (岩心殿)]]    | Geng Zexian          |
+| [[Ryuutenjou (龍天城)]]    | [[Inaba Flos Renho]] |
+| [[Shui Lin Gong (水麟宮)]] | Jia Huang            |
+| [[Zhū Què Mén (朱雀門)]]   | Xiao Yan             |
 ## Overview
 Chingwe ตั้งอยู่บนเกาะทางตะวันตกของ Floressense โดยถูกล้อมรอบด้วยคาบสมุทรทั้งสาม ซึ่งเป็นพื้นที่ที่มีสภาพอากาศแปรปรวนอย่างรุนแรง ทำให้การเดินทางเข้าออกเป็นไปอย่างยากลำบาก ด้วยเหตุนี้ เมืองจึงไม่ได้มีนักเดินทางเข้ามาบ่อยนัก ถึงแม้จะถูกตัดขาดจากโลกภายนอก แต่ Chingwe ยังคงรุ่งเรืองและมีประชากรหนาแน่น เนื่องจากพื้นที่ขนาดใหญ่และทรัพยากรธรรมชาติอุดมสมบูรณ์ ปัจจุบัน ขนาดและอิทธิพลของ Chingwe เติบโตขึ้นมากจนบางคนเริ่มเรียกมันว่า **"อาณาจักร"** แทนที่จะเป็นเพียงเมือง
 
@@ -91,10 +73,12 @@ Chingwe เป็นนครอันยิ่งใหญ่ที่ได้
 Placeholder
 
 ## Notable NPCs
-```dataview
-table Race, Gender
-WHERE Location = [[Chingwe]]
-```
+
+| Name                 | Race                     | Gender |
+| -------------------- | ------------------------ | ------ |
+| [[Han Feng]]         | Human                    | Male   |
+| [[Inaba Flos Renho]] | Half-Elf, Half-Dragonkin | Female |
+
 
 ## Profile
 **ลักษณะสำคัญ:**
