@@ -1,13 +1,14 @@
 ---
 NoteIcon: settlement
 tags:
-  - Category/Settlement
+  - Settlement
+  - Floressense
 Community-Size: Outpost
 Alignment: Neutral
 Government: Pedocracy
 type: Settlement
 politics: Pedocracy
-leader: 
+leader: Gwisin Mugunghwa
 guildsgroups:
   - Thieves Guild 1
   - Cult 1
@@ -42,7 +43,7 @@ imports:
 | Govt Type  | Pedocracy                                      |
 | Ruler      | Gwisin Mugunghwa                               |
 | Population | 1500                                           |
-| Races      | Human, Birdfolk, Capy'hado, Minotaur, Trealtin |
+| Races      | Human, Birdfolk, Capy'hado, Minotaur, Trealtin, Hanamori, Fuyōren, Firbolg, Arhcoon|
 | Temples    | -                                              |
 | Exports    | Fowl, Venison, Lumber                          |
 | Imports    | Something else                                 |

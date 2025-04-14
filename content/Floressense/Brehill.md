@@ -1,13 +1,14 @@
 ---
 NoteIcon: settlement
 tags:
-  - Category/Settlement
+  - Settlement
+  - Floressense
 Community-Size: Large Town
 Alignment: Neutral
 Government: Corporatocracy
 type: Settlement
 politics: Corporatocracy
-leader: 
+leader: Fukuwara Suiren
 guildsgroups: 
 region:
   - Floressense
@@ -25,48 +26,25 @@ imports:
   - Something Else
 ---
 
-
-
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
-> ###### Geography
-> Type |  Stat |
-> ---|---|
-> Type | `=this.type` |
-> Size | `=this.size` |
-> Region | `=this.region` |
-> ###### Travel (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destination |  Travel Days  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politics
-> Type |  Stat |
-> ---|---|
-> Govt Type | `=this.politics` |
-> Ruler | `=this.leader` |
-> Defense | `=this.defences` |
-> ###### Society
-> Type |  Stat |
-> ---|---|
-> Population | `=this.population` |
-> Races | `=this.commonraces` |
-> Temples | `=this.religion`  |
-> ###### Commerce
-> Type |  Stat |
-> ---|---|
-> Exports | `=this.exports` |
-> Imports | `=this.imports` |
-> ###### Organizations
-> Type |  Stat |
-> ---|---|
-> ```dataview
-table WITHOUT ID link(file.name) AS "Group", link(Leader) AS "Leader"
-where contains( PrimaryHome, this.file.name)
-
-
-# `=this.file.name`
+# Brehill
+[[MapPlaceholder.png|cover hsmall]]
+## Stat Information
+| Type       | Stat                                     |
+| ---------- | ---------------------------------------- |
+| Type       | Settlement                               |
+| Size       | Large Town                               |
+| Region     | Floressense                              |
+| Govt Type  | Corporatocracy                           |
+| Ruler      | Fukuwara Suiren                          |
+| Population | 4500                                     |
+| Races      | Humans, Oniborne, Tengu, Haniwa, Kitsune |
+| Temples    | -                             |
+| Exports    | Diamonds, Emeralds                               |
+| Imports    | Something else                           |
+## Organizations
+| Group |  Leader |
+| ---|---|
+| Work In Progress | Work In Progress |
 ## Overview
 Brehill เป็นเมืองที่ขึ้นชื่อในเรื่องของแสงสีและเทศกาลที่คึกคัก แต่ภายใต้ความสนุกสนานนั้น เมืองนี้ซ่อนความขัดแย้งและการแข่งขันระหว่างตระกูลต่างๆ ไว้อย่างลึกซึ้ง ชาว Brehill แบ่งแยกตัวเองตามวงศ์ตระกูล และการทำให้ตระกูลของตนยิ่งใหญ่คือเป้าหมายหลัก แม้ว่าจะต้องใช้วิธีการที่โหดร้ายก็ตาม
 

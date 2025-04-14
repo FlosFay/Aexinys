@@ -1,7 +1,8 @@
 ---
 NoteIcon: settlement
 tags:
-  - Category/Settlement
+  - Settlement
+  - Floressense
 Community-Size: Small Town
 Alignment: Neutral
 Government: Autocracy
@@ -24,48 +25,27 @@ exports:
 imports:
 ---
 
-
-
-> [!infobox]
-> # `=this.file.name`
-> ![[MapPlaceholder.png]]
-> ###### Geography
-> Type |  Stat |
-> ---|---|
-> Type | `=this.type` |
-> Size | `=this.size` |
-> Region | `=this.region` |
-> ###### Travel (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
-> Destination |  Travel Days  |
-> ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
-> ###### Politics
-> Type |  Stat |
-> ---|---|
-> Govt Type | `=this.politics` |
-> Ruler | `=this.leader` |
-> Defense | `=this.defences` |
-> ###### Society
-> Type |  Stat |
-> ---|---|
-> Population | `=this.population` |
-> Races | `=this.commonraces` |
-> Temples | `=this.religion`  |
-> ###### Commerce
-> Type |  Stat |
-> ---|---|
-> Exports | `=this.exports` |
-> Imports | `=this.imports` |
-> ###### Organizations
-> Type |  Stat |
-> ---|---|
-> ```dataview
-table WITHOUT ID link(file.name) AS "Group", link(Leader) AS "Leader"
-where contains( PrimaryHome, this.file.name)
-
-
 # Nargundush
+
+## Stat Information
+
+| Type       | Stat                                 |
+| ---------- | ------------------------------------ |
+| Type       | Settlement                           |
+| Size       | Small Town                           |
+| Region     | Floressense                          |
+| Govt Type  | Autocracy                            |
+| Ruler      | Makalani             |
+| Population | 1000                                |
+| Races      | Human, Tiefling, Tarnished, Hádislin, Pétratára, Feralus, Ilthrak-yar |
+| Temples    | -                                    |
+| Exports    | Desert Fruits and Animals                         |
+| Imports    | Something else                       |
+## Organizations
+
+| Group                   | Leader               |
+| ----------------------- | -------------------- |
+| Work In Progress    | Work In Progress        |
 ## Overview
 เศรษฐกิจของ Nargundush ยังคงตกต่ำแม้จะไม่ได้ถึงขั้นทำให้ประชาชนอดอยาก สาเหตุหลักมาจากเส้นทางคมนาคมที่ค่อนข้างอันตราย ทำให้นักลงทุนไม่ให้ความสนใจเข้ามาลงทุนในเมืองนี้มากนัก นอกจากนี้เมืองนี้ยังมีประชากรน้อยกว่า Caerni หลายเท่าตัวเนื่องจากผลกระทบจากสงคราม แม้จะมีความยากลำบาก แต่การบูรณะเมืองยังคงดำเนินต่อไปอย่างช้าๆ ประชาชนในเมืองนี้ส่วนใหญ่จะรู้สึกประหลาดใจเมื่อมีผู้เดินทางมาจากเมืองอื่น แต่พวกเขามักต้อนรับนักเดินทางด้วยน้ำใจและอัธยาศัยที่ดี ความอ่อนน้อมถ่อมตนของชาว Nargundush ทำให้พวกเขามักถูกกดดันได้ง่าย
 

@@ -1,7 +1,8 @@
 ---
 NoteIcon: settlement
 tags:
-  - Category/Settlement
+  - Settlement
+  - Floressense
 Community-Size: Large City
 Alignment: Lawful Neutral
 Government: Autocracy
@@ -41,7 +42,7 @@ imports:
 | Govt Type  | Autocracy                            |
 | Ruler      | Ōhirume no Mikoto (大日孁尊)             |
 | Population | 15000                                |
-| Races      | Human, Beast Tribe, Primodia, Hanyou |
+| Races      | Human, Beast Tribe, Primodia, Hanyou, Enkoh, Isetsu, Ryokido, Tatsumi, Kua Hono|
 | Temples    | -                                    |
 | Exports    | Herbs, Marble                        |
 | Imports    | Something else                       |
@@ -78,7 +79,6 @@ Placeholder
 | -------------------- | ------------------------ | ------ |
 | [[Han Feng]]         | Human                    | Male   |
 | [[Inaba Flos Renho]] | Half-Elf, Half-Dragonkin | Female |
-
 
 ## Profile
 **ลักษณะสำคัญ:**
