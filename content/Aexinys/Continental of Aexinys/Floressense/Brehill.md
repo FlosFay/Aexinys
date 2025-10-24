@@ -27,7 +27,7 @@ imports:
 ---
 
 # Brehill
-[[MapPlaceholder.png|cover hsmall]]
+[[content/z_Templates/zz_asset-files/MapPlaceholder.png|cover hsmall]]
 ## Stat Information
 | Type       | Stat                                     |
 | ---------- | ---------------------------------------- |
@@ -57,10 +57,10 @@ Brehill เป็นเมืองที่ขึ้นชื่อในเร
 Brehill จึงเป็นเมืองที่เต็มไปด้วยความขัดแย้งแต่ก็มีสีสันและชีวิตชีวา เป็นสถานที่ที่ความโหดร้ายและความสวยงามอยู่ร่วมกันอย่างน่าประหลาดใจ
 
 ### Placeholder Map
-![[MapPlaceholder.png|Placeholder Map]]
+![[content/z_Templates/zz_asset-files/MapPlaceholder.png|Placeholder Map]]
 
 ### Placeholder Picture
-![[ImagePlaceholder.png|Placeholder Picture]]
+![[content/z_Templates/zz_asset-files/ImagePlaceholder.png|Placeholder Picture]]
 
 Placeholder
 

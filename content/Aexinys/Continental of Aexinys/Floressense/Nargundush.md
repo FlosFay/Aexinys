@@ -54,10 +54,10 @@ imports:
 นอกจากนี้ ยังมีปัญหาเรื่องการปล้นขโมยที่เกิดขึ้นบ่อยครั้ง ทำให้ผู้ที่ไม่เตรียมตัวต้องเผชิญกับการสูญเสียทรัพย์สินอย่างสม่ำเสมอ แม้สถานการณ์ใน Nargundush จะเต็มไปด้วยความยากลำบาก แต่ประชาชนยังคงพยายามรักษาเมืองให้อยู่รอดและพยายามปรับปรุงสถานการณ์ที่ย่ำแย่ให้ดีขึ้นตามที่สามารถทำได้
 
 ### Placeholder Map
-![[MapPlaceholder.png|Placeholder Map]]
+![[content/z_Templates/zz_asset-files/MapPlaceholder.png|Placeholder Map]]
 
 ### Placeholder Picture
-![[ImagePlaceholder.png|Placeholder Picture]]
+![[content/z_Templates/zz_asset-files/ImagePlaceholder.png|Placeholder Picture]]
 
 Placeholder
 

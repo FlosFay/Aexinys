@@ -41,7 +41,7 @@ _%>
 
 | Image                                              | Char Name         | Player Name    | Class         | Race         | Level         |
 | -------------------------------------------------- | ----------------- | -------------- | ------------- | ------------ | ------------- |
-| ![[ImagePlaceholder.png\|cover hsmall]] | `=this.file.name` |  `VIEW[{Player}]` | `VIEW[{Class}]` | `VIEW[{Race}]` | `VIEW[{level}]` |
+| ![[content/z_Templates/zz_asset-files/ImagePlaceholder.png\|cover hsmall]] | `=this.file.name` |  `VIEW[{Player}]` | `VIEW[{Class}]` | `VIEW[{Race}]` | `VIEW[{level}]` |
 
 ```custom-frames
 frame: ConfigureInCustomFramesPlugin

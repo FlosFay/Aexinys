@@ -27,8 +27,8 @@ _%>
 
 > [!infobox]
 > # `=this.file.name`
-> ![[ImagePlaceholder.png|cover hsmall]]
-> [[ImagePlaceholder.png|Show To Players]]
+> ![[content/z_Templates/zz_asset-files/ImagePlaceholder.png|cover hsmall]]
+> [[content/z_Templates/zz_asset-files/ImagePlaceholder.png|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|

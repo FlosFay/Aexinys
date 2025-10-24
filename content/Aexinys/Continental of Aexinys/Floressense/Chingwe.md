@@ -66,10 +66,10 @@ Chingwe เป็นนครอันยิ่งใหญ่ที่ได้
 แม้จะเป็นศูนย์กลางของศาสตร์แห่งการต่อสู้ แต่ Chingwe ก็ยังเต็มไปด้วยปริศนาและเรื่องเล่าที่ถูกส่งต่อกันมาหลายชั่วอายุคน ว่ากันว่ามี **สำนักลับ** ที่ซ่อนตัวอยู่ภายในป่าลึก หรือแม้แต่ยอดฝีมือที่ฝึกฝนจนก้าวข้ามขีดจำกัดของมนุษย์ เรื่องราวเหล่านี้กระตุ้นความอยากรู้อยากเห็นของนักรบและผู้แสวงหาพลัง ทำให้ Chingwe กลายเป็นจุดหมายปลายทางสำหรับผู้ที่ต้องการฝึกฝนตนเองให้แข็งแกร่งเหนือผู้ใด
 
 ### Placeholder Map
-![[MapPlaceholder.png|Placeholder Map]]
+![[content/z_Templates/zz_asset-files/MapPlaceholder.png|Placeholder Map]]
 
 ### Placeholder Picture
-![[ImagePlaceholder.png|Placeholder Picture]]
+![[content/z_Templates/zz_asset-files/ImagePlaceholder.png|Placeholder Picture]]
 
 Placeholder
 

@@ -23,7 +23,7 @@ _%>
 
 > [!infobox]
 > # `=this.file.name`
-> ![[ImagePlaceholder.png]]
+> ![[content/z_Templates/zz_asset-files/ImagePlaceholder.png]]
 > ###### Key Members
 > ```dataview
 table Race, Gender

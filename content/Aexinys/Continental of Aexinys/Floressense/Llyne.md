@@ -71,10 +71,10 @@ imports:
 แม้จะยังโหดเหี้ยม แต่ **Llyne** ใต้เงาของบาลันไม่ใช่นรกไร้ทางรอดอีกต่อไป หากแต่เป็น _สนามรบแห่งโอกาส_ สำหรับผู้ที่กล้าจะคว้ามันไว้ด้วยมือที่เปื้อนเลือด
 
 ### Placeholder Map
-![[MapPlaceholder.png|Placeholder Map]]
+![[content/z_Templates/zz_asset-files/MapPlaceholder.png|Placeholder Map]]
 
 ### Placeholder Picture
-![[ImagePlaceholder.png|Placeholder Picture]]
+![[content/z_Templates/zz_asset-files/ImagePlaceholder.png|Placeholder Picture]]
 
 Placeholder
 

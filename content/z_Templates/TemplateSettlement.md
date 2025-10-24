@@ -44,7 +44,7 @@ _%>
 
 > [!infobox]
 > # `=this.file.name`
-> ![[MapPlaceholder.png|cover hsmall]]
+> ![[content/z_Templates/zz_asset-files/MapPlaceholder.png|cover hsmall]]
 > ###### Geography
 > Type |  Stat |
 > ---|---|
@@ -86,10 +86,10 @@ where contains( PrimaryHome, this.file.name)
 Placeholder
 
 ### Placeholder Map
-![[MapPlaceholder.png|Placeholder Map]]
+![[content/z_Templates/zz_asset-files/MapPlaceholder.png|Placeholder Map]]
 
 ### Placeholder Picture
-![[ImagePlaceholder.png|Placeholder Picture]]
+![[content/z_Templates/zz_asset-files/ImagePlaceholder.png|Placeholder Picture]]
 
 Placeholder
 

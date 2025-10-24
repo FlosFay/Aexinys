@@ -14,7 +14,7 @@ NoteIcon: group
 
 
 # G.A.I.A
-![[ImagePlaceholder.png]]
+![[content/z_Templates/zz_asset-files/ImagePlaceholder.png]]
 ## Overview
 **Global Alliance against Interdimensional Aggression** หรือ **เครือข่ายพันธมิตรระหว่างดินแดนเพื่อรับมือการบุกรุกจากต่างมิติ** พวกเขาร่วมมือกันเพื่อสกัดกั้นอันตรายจากต่างมิติหรือนอกโลกที่จะเข้ามาถึง Aexinys ซึ่งศูนย์บัญชาการหลักของพวกเขาอยู่ที่ [[Alatheia]] 
 
