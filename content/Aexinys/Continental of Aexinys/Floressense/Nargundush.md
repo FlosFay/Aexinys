@@ -84,18 +84,3 @@ Placeholder
 - **The Dune Riders' Guild**  
 	สมาคมของนักขี่สัตว์ทะเลทรายที่ฝึกฝนการขี่สัตว์ที่สามารถเอาชนะการเดินทางในทรายได้ เช่น อูฐยักษ์หรือตัวมังกรทะเลทราย พวกเขาคือผู้ที่มีทักษะในการเดินทางข้ามทะเลทรายอย่างรวดเร็วและปลอดภัย และยังคอยให้คำแนะนำแก่นักผจญภัยที่ต้องการจะข้ามทะเลทราย
 
-## Valuables
-Placeholder
-
-## Internal Relationships
-Placeholder
-
-## Outward Relationships
-Placeholder
-
-## Background
-Placeholder
-
-## Additional Details
-Placeholder
-
